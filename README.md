@@ -63,7 +63,7 @@ El objetivo principal del proyecto fue explorar e implementar los conceptos fund
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-metaverso-unity.git
+   git clone https://github.com/Tomaslopera/Metaverse.git
    ```
 
 2. Abre Unity Hub y selecciona "Abrir proyecto desde carpeta".
